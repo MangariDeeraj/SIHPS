@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date:10.05.2024
-## Register Number:212223100031
-## Name:MANGARI DEERAJ
+## Register Number:212223100023
+## Name:KOPPALA NAVEEN
 ## Problem Title
 E-Waste Facility Locator
 ## Problem Description
